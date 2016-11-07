@@ -2,7 +2,7 @@
   "TranslationStrings": [
     {
       "Key": "pokeball",
-      "Value": "PokeBall"
+      "Value": "PokéBall"
     },
     {
       "Key": "greatPokeball",
@@ -54,7 +54,7 @@
     },
     {
       "Key": "eventUseLuckyEggMinPokemonCheck",
-      "Value": "Pas assez de pokemon à évoluer pour utiliser un Oeuf Chance. Il en manque {0}. ({1}/{2})"
+      "Value": "Pas assez de pokémon à évoluer pour utiliser un Oeuf Chance. Il en manque {0}. ({1}/{2})"
     },
     {
       "Key": "eventPokemonEvolvedSuccess",
@@ -290,7 +290,7 @@
     },
     {
       "Key": "currentPokeballInv",
-      "Value": "[Inventaire] Pokeballs: {0} | Superballs: {1} | Hyperballs: {2} | Masterballs: {3} | Total: {4}"
+      "Value": "[Inventaire] Pokéballs: {0} | Superballs: {1} | Hyperballs: {2} | Masterballs: {3} | Total: {4}"
     },
     {
       "Key": "currentPotionInv",
@@ -310,7 +310,7 @@
     },
     {
       "Key": "currentMiscInv",
-      "Value": "[Inventaire] Leures: {0} | Oeufs Chance: {1} | Incubateurs: {2} | Total: {3}"
+      "Value": "[Inventaire] Leurres: {0} | Oeufs Chance: {1} | Incubateurs: {2} | Total: {3}"
     },
     {
       "Key": "currentInvUsage",
@@ -318,11 +318,11 @@
     },
     {
       "Key": "currentPokemonUsage",
-      "Value": "[Inventaire] Pokemon Stockés: {0}/{1}"
+      "Value": "[Inventaire] Pokémons Stockés: {0}/{1}"
     },
     {
       "Key": "checkingForBallsToRecycle",
-      "Value": "Recherche de PokeBalls à supprimer. En garder {0}"
+      "Value": "Recherche de PokéBalls à supprimer. En garder {0}"
     },
     {
       "Key": "checkingForPotionsToRecycle",
@@ -362,7 +362,7 @@
     },
     {
       "Key": "desiredDestTooFar",
-      "Value": "La destination désirée {0}, {1} est trop éloigné de votre position actuelle {2}, {3}."
+      "Value": "La destination désirée {0}, {1} est trop éloignée de votre position actuelle {2}, {3}."
     },
     {
       "Key": "pokemonRename",
@@ -378,7 +378,7 @@
     },
     {
       "Key": "catchStatusError",
-      "Value": "Echec"
+      "Value": "Échec"
     },
     {
       "Key": "catchStatusEscape",
@@ -458,7 +458,7 @@
     },
     {
       "Key": "notEnoughPokeballsToSnipe",
-      "Value": "Pas assez de Pokeballs pour commencer à sniper! ({0}/{1})"
+      "Value": "Pas assez de Pokéballs pour commencer à sniper! ({0}/{1})"
     },
     {
       "Key": "displayHighestMove1Header",
@@ -494,7 +494,7 @@
     },
     {
       "Key": "pokemonUpgradeFailedError",
-      "Value": "L'évolution du Pokémon a échouée pour une raison inconnue. Le Pokémon est peut être déjà à son niveau maximul par rapport au vôtre. Le Pokémon qui a provoqué le problème est: {0}"
+      "Value": "L'évolution du Pokémon a échouée pour une raison inconnue. Le Pokémon est peut être déjà à son niveau maximum par rapport au vôtre. Le Pokémon qui a provoqué le problème est: {0}"
     },
     {
       "Key": "webErrorBadGateway",
@@ -558,7 +558,7 @@
     },
     {
       "Key": "evolvedInto",
-      "Value": "Evolué en {0} CP: {1} Iv: {2}%"
+      "Value": "Évolué en {0} CP: {1} Iv: {2}%"
     },
     {
       "Key": "gymTouch",
@@ -570,7 +570,7 @@
     },
     {
       "Key": "pokeListEmpty",
-      "Value": "Le classement des meilleures Pokemons est vide"
+      "Value": "Le classement des meilleures Pokémons est vide"
     },
     {
       "Key": "proxyAlready",
@@ -610,15 +610,15 @@
     },
     {
       "Key": "discordLink",
-      "Value": "ou se joindre à notre sympathique chat:"
+      "Value": "où se joindre à notre sympathique chat:"
     },
     {
       "Key": "scheduleAction",
-      "Value": "Schedule Action [{0}], with args: [{1}] performed successfully"
+      "Value": "action planifiée [{0}], avec l'argument: [{1}] correctement prit en compte"
     },
     {
       "Key": "scheduleActionFailed",
-      "Value": "Schedule Action Failed to perform action {0}, with args: {1}"
+      "Value": "impossible de planifier cette action {0}, avec l'argument: {1}"
     },
     {
       "Key": "schedulePause",
@@ -638,11 +638,11 @@
     },
     {
       "Key": "failedCoords",
-      "Value": "Coordonner en échec, s'il vous plaît vérifier à nouveau !"
+      "Value": "Coordonnées en échec, veuillez les vérifier à nouveau !"
     },
     {
       "Key": "errorCatchNearby",
-      "Value": "Coordonner en échec, s'il vous plaît vérifier à nouveau !"
+      "Value": "Coordonnées en échec, veuillez les vérifier à nouveau !"
     },
     {
       "Key": "candyMiss",
@@ -658,7 +658,7 @@
     },
     {
       "Key": "unDoneForceMove",
-      "Value": "Found not-done ForceMove, resuming movement to Lat: {0} Lon:{1}"
+      "Value": "découverte d'un anti déplacement forcé, reprise du parcours Lat: {0} Lon:{1}"
     },
     {
       "Key": "routeSwitched",
